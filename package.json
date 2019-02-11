@@ -1,0 +1,23 @@
+{
+  "name": "js30",
+  "version": "1.0.0",
+  "description": "30 projects in vanilla js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsdevx/js-30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmsdevx/js-30/issues"
+  },
+  "homepage": "https://github.com/jmsdevx/js-30#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
